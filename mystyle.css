@@ -1,0 +1,15 @@
+/* Body Styles*/	
+body{
+	text-align: center;
+	background-color: #58B2CE;
+}
+/* Header Styles*/
+h1{
+
+	color: red;
+}
+/*List Styles*/
+
+li{
+	display: inline-block;
+}
